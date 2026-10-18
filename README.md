@@ -4,7 +4,7 @@
 
 # 👋 채용 담당자님, 안녕하세요.<br>오성현이라고 합니다.
 
-[주요 성과](#achievements) · [경험](#experience) · [채용 이력](#career)
+[주요 성과](#achievements) · [경험](#experience) · [채용 이력](#career) · [자격증](#certificate)
 
 </div>
 
@@ -67,6 +67,14 @@
 
 ---
 
+<a name="certificate"></a>
+
+## 🏅자격 및 수료 (시기순)
+| 성과 | 주관 | 시기 |
+| :--- | :--- | :--- |
+| **2025 디지펜 게임아카데미 2기** | 부산정보산업진흥원 | 2025.09 |
+
+---
 <div align="center">
 
 [⬆ 맨 위로](#top)
