@@ -1,16 +1,39 @@
-## Hi there 👋
+<a name="top"></a>
 
-<!--
-**Xekaion/Xekaion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 안녕하세요, {{오성현}}입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 💪 **나의 강점** | {{IQ 164 레이븐스2 (스탠퍼드-비네 척도(SD16)기준}} |
+
+<a name="experience"></a>
+
+## 경험
+
+### {{강남대성 수능연구소}} · {{출제 및 검토위원}}
+
+**{{2020.12 – 2021.03}}**
+
+- {{강대모의고사 및 더프리미엄 물리II 문제 출제 및 검토}}
+
+### {{피규어카르텔}} · {{대표}}
+
+**{{2021.09 - 현재}}**
+
+- {{2025년 4분기 매출 4000만원(순익 1400만원) 달성 후 사업자전환}}
+
+### {{라이나생명}} · {{웹사이트 개발 직무}}
+
+**{{최종합격 후 합류고사}}**
+
+- {{담당 업무와 책임}}
+- {{직접 기여한 변화 또는 해결한 문제}}
+- {{성과나 배운 점}}
+
+
+## 🏅 Achievements
+
+### 🏆 Awards
+
+| {{2021.12}} | {{2021학년도 수능}} | {{물리2 만점(전국 1등)}} |
+
