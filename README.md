@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 채용 담당자님, 안녕하세요.<br>오성현이라고 합니다.
+# 👋 오성현입니다.<br>
 
 [주요 성과](#achievements) · [경험](#experience) · [채용 이력](#career) · [자격증](#certificate)
 
